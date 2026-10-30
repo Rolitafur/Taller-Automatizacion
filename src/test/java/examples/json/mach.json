@@ -1,0 +1,68 @@
+{
+  "page":"#number",
+  "per_page": "#number",
+  "total": "#number",
+  "total_pages": "#number",
+  "data": [
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    },
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    },
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    },
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    },
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    },
+    {
+      "id": "#number",
+      "email": "#notnull",
+      "first_name": "#string",
+      "last_name": "#string",
+      "avatar": "#notnull"
+    }
+  ],
+  "support": {
+    "url": "#notnull",
+    "text": "#string",
+    "sponsored_by": "#string"
+  },
+  "_meta": {
+    "powered_by": "#string",
+    "docs_url": "#notnull",
+    "upgrade_url": "#notnull",
+    "example_url": "#notnull",
+    "variant": "#notnull",
+    "message": "#string",
+    "cta": {
+      "label": "#string",
+      "url": "#notnull"
+    },
+    "context": "#notnull"
+  }
+}
